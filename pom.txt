@@ -1,0 +1,31 @@
+ <dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.10.0</version>
+    </dependency>
+	
+	
+<dependency>
+    <groupId>org.testng</groupId>
+    <artifactId>testng</artifactId>
+    <version>7.7.1</version>
+    <scope>test</scope>
+</dependency>
+<dependency>
+                  <groupId>com.intuit.karate</groupId>
+                  <artifactId>karate-apache</artifactId>
+                  <version>0.9.5</version>
+                  <scope>test</scope>
+           </dependency>
+           <dependency>
+                    <groupId>com.intuit.karate</groupId>
+                    <artifactId>karate-junit4</artifactId>
+                    <version>0.9.5</version>
+                    <scope>test</scope>
+             </dependency>
+
+<dependency>
+    <groupId>io.github.bonigarcia</groupId>
+    <artifactId>webdrivermanager</artifactId>
+    <version>5.3.2</version>
+</dependency>
